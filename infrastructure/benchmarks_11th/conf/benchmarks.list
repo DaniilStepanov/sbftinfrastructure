@@ -1,0 +1,1002 @@
+{
+COLLECTIONS-10={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.multimap.ArrayListValuedHashMap
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-11={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.bidimap.DualTreeBidiMap
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-12={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.functors.CloneTransformer
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-13={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.MapUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-14={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.bag.CollectionBag
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-15={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.functors.DefaultEquator
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-16={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.sequence.ReplacementsFinder
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-17={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.trie.analyzer.StringKeyAnalyzer
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-18={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.IteratorUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-19={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.iterators.ZippingIterator
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-1={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.SetUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-20={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.map.LinkedMap
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-21={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.set.CompositeSet
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-22={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.ArrayStack
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-23={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.TransformerUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-24={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.functors.EqualPredicate
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-25={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.sequence.EditScript
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-2={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.collection.CompositeCollection
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-3={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.iterators.SingletonIterator
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-4={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.map.MultiValueMap
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-5={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.functors.PrototypeFactory
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-6={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.list.TreeList
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-7={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.ListUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-8={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.functors.ChainedTransformer
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+COLLECTIONS-9={
+  src=/var/benchmarks/projects/commons-collections/src/main/java
+  bin=/var/benchmarks/projects/commons-collections/target/classes
+  classes=(
+    org.apache.commons.collections4.map.CompositeMap
+  )
+  classpath=(
+    /var/benchmarks/projects/commons-collections/target/commons-collections4-4.5-SNAPSHOT.jar,/var/benchmarks/projects/commons-collections/target/dependency/error_prone_annotations-2.18.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/easymock-5.1.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/checker-qual-3.33.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-lang3-3.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-codec-1.16.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/commons-collections/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/objenesis-3.3.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-testlib-32.1.2-jre.jar,/var/benchmarks/projects/commons-collections/target/dependency/j2objc-annotations-2.8.jar,/var/benchmarks/projects/commons-collections/target/dependency/hamcrest-2.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/junit-4.13.2.jar,/var/benchmarks/projects/commons-collections/target/dependency/commons-io-2.13.0.jar,/var/benchmarks/projects/commons-collections/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+JSOUP-26={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.examples.Wikipedia
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-27={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.parser.HtmlTreeBuilder
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-28={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.helper.DataUtil
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-29={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.select.Selector
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-30={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.parser.TokenQueue
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-31={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.nodes.FormElement
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-32={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.parser.CharacterReader
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-33={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.nodes.Element
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-34={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.select.Evaluator
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-35={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.safety.Cleaner
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-36={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.nodes.DocumentType
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-37={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.internal.ConstrainableInputStream
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-38={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.select.NodeTraversor
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+JSOUP-39={
+  src=/var/benchmarks/projects/jsoup/src/main/java
+  bin=/var/benchmarks/projects/jsoup/target/classes
+  classes=(
+    org.jsoup.nodes.TextNode
+  )
+  classpath=(
+    /var/benchmarks/projects/jsoup/target/jsoup-1.16.2-SNAPSHOT.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-params-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/gson-2.10.1.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-ajax-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-engine-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-server-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-platform-engine-1.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-api-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/jsoup/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/jsoup/target/dependency/javax.servlet-api-3.1.0.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-util-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-http-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-security-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/jsr305-3.0.2.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-io-9.4.51.v20230217.jar,/var/benchmarks/projects/jsoup/target/dependency/junit-jupiter-5.9.3.jar,/var/benchmarks/projects/jsoup/target/dependency/jetty-servlet-9.4.51.v20230217.jar
+  )
+}
+SPATIAL4J-40={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.distance.GeodesicSphereDistCalc
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-41={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.io.WKTReader
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-42={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.shape.impl.PointImpl
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-43={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.shape.SpatialRelation
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-44={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.shape.impl.InfBufLine
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-45={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.context.SpatialContextFactory
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-46={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.SpatialPredicate
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-47={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.distance.DistanceUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-48={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.shape.impl.BufferedLineString
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-49={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.io.GeoJSONWriter
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-50={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.shape.impl.BufferedLine
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-51={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.shape.impl.CircleImpl
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+SPATIAL4J-52={
+  src=/var/benchmarks/projects/spatial4j/src/main/java
+  bin=/var/benchmarks/projects/spatial4j/target/classes
+  classes=(
+    org.locationtech.spatial4j.io.PolyshapeReader
+  )
+  classpath=(
+    /var/benchmarks/projects/spatial4j/target/spatial4j-0.9-SNAPSHOT.jar,/var/benchmarks/projects/spatial4j/target/dependency/randomizedtesting-runner-2.5.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-simple-1.7.25.jar,/var/benchmarks/projects/spatial4j/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-core-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-databind-2.13.4.2.jar,/var/benchmarks/projects/spatial4j/target/dependency/noggit-0.8.jar,/var/benchmarks/projects/spatial4j/target/dependency/jts-core-1.18.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/spatial4j/target/dependency/jackson-annotations-2.13.4.jar,/var/benchmarks/projects/spatial4j/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-53={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.SqnCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-54={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.KAMAIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-55={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.aggregator.DurationBarAggregator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-56={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.pnl.NetLossCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-57={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.helpers.StandardErrorCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-58={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.rules.StopGainRule
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-59={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.pnl.AverageProfitCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-60={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.utils.BarSeriesUtils
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-61={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.rules.StopLossRule
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-62={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.helpers.LossIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-63={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.LWMAIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-64={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.NumberOfBreakEvenPositionsCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-65={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.NumberOfLosingPositionsCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-66={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.analysis.cost.LinearTransactionCostModel
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-67={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.SMAIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-68={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.aroon.AroonUpIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-69={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.Trade
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-70={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.statistics.PearsonCorrelationIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-71={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.num.NaN
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-72={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.MACDIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-73={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.pnl.GrossProfitCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-74={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.rules.TimeRangeRule
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-75={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.aroon.AroonDownIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-76={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.Position
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-77={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.helpers.VarianceCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-78={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.UlcerIndexIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-79={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.statistics.VarianceIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-80={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.criteria.NumberOfConsecutivePositionsCriterion
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-81={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.indicators.statistics.SimpleLinearRegressionIndicator
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+TA4J-82={
+  src=/var/benchmarks/projects/ta4j/ta4j-core/src/main/java
+  bin=/var/benchmarks/projects/ta4j/ta4j-core/target/classes
+  classes=(
+    org.ta4j.core.analysis.Returns
+  )
+  classpath=(
+    /var/benchmarks/projects/ta4j/ta4j-core/target/ta4j-core-0.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/hamcrest-core-1.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-io-2.11.0.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-classic-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-math3-3.6.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/SparseBitSet-1.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/junit-4.13.1.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/logback-core-1.2.3.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/poi-5.2.2.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-codec-1.15.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/commons-collections4-4.4.jar,/var/benchmarks/projects/ta4j/ta4j-core/target/dependency/slf4j-api-1.7.25.jar
+  )
+}
+THREETEN-EXTRA-100={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.EthiopicEra
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-83={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.Minutes
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-84={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.scale.UtcInstant
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-85={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.PaxEra
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-86={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.AccountingEra
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-87={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.PeriodDuration
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-88={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.PackedFields
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-89={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.Symmetry010Chronology
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-90={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.LocalDateRange
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-91={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.DiscordianChronology
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-92={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.Symmetry454Date
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-93={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.DayOfMonth
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-94={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.CopticEra
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-95={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.Months
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-96={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.PaxDate
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-97={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.scale.TaiInstant
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-98={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.chrono.CopticChronology
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+THREETEN-EXTRA-99={
+  src=/var/benchmarks/projects/threeten-extra/src/main/java
+  bin=/var/benchmarks/projects/threeten-extra/target/classes
+  classes=(
+    org.threeten.extra.Seconds
+  )
+  classpath=(
+    /var/benchmarks/projects/threeten-extra/target/threeten-extra-1.7.3-SNAPSHOT.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-engine-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-api-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/joda-convert-2.2.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-params-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-platform-launcher-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-pioneer-1.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/apiguardian-api-1.1.2.jar,/var/benchmarks/projects/threeten-extra/target/dependency/opentest4j-1.2.0.jar,/var/benchmarks/projects/threeten-extra/target/dependency/failureaccess-1.0.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/junit-jupiter-engine-5.9.1.jar,/var/benchmarks/projects/threeten-extra/target/dependency/guava-32.1.2-jre.jar
+  )
+}
+}
